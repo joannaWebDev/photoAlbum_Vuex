@@ -21,4 +21,6 @@ Combine the Composition API, Vue Router and Vuex to build a large, complex appli
 - vue/vuex/vue-router
 - optimizing with caching in Vuex
 
-## Live
+## View
+
+<img src="photos_Vuex.png" />
