@@ -17,7 +17,7 @@ Combine the Composition API, Vue Router and Vuex to build a large, complex appli
 
 - combining everything
 - slots
-- desien patterns
+- design patterns
 - vue/vuex/vue-router
 - optimizing with caching in Vuex
 
